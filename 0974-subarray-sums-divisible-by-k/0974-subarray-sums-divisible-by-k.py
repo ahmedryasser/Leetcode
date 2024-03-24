@@ -7,7 +7,7 @@ class Solution:
         modGroups[0] =1
         
         for num in nums:
-            prefixMod = ((prefixMod+num)%k + k)%k
+            prefixMod = (prefixMod+num)%k
             output +=modGroups[prefixMod];
             modGroups[prefixMod] +=1
             
