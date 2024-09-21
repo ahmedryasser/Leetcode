@@ -4,7 +4,8 @@ class Solution:
         visited = set()
         for word in words:
             # translate
-            visited.add("".join(morse_code_mapping[x] for x in word))
+            # visited.add("".join(morse_code_mapping[x] for x in word))
+            visited.add("".join([morse_code_mapping[x] for x in word]))
         return len(visited)
         
         
