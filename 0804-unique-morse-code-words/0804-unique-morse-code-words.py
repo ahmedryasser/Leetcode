@@ -4,9 +4,10 @@ class Solution:
         visited = set()
         for word in words:
             # translate
-            string = ""
+            string = []
             for letter in word:
-                string += morse_code_mapping[letter]
-            visited.add(string)
+                string.append( morse_code_mapping[letter])
+            visited.add("".join(string))
         return len(visited)
-            
+        
+        
