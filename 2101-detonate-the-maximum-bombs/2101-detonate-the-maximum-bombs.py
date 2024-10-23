@@ -14,17 +14,17 @@ class Solution:
                 if distance <= r2**2:
                     adj[j].append(i)
                     
-        def dfs(i, seen):
-            if i in seen:
-                return
-            seen.add(i)
-            for j in adj[i]:
-                dfs(j, seen)
+        def dfs(i,seen):
+            stack = [i]
+            while stack:
+                node = stack.pop()
+                if node not in seen:
+                    seen.add(node)
+                    stack.extend(adj[node])
+            return len(seen)
         
         res = 0
         for i  in range(len(bombs)):
-            seen = set()
-            dfs(i,seen)
-            res = max(res,len(seen))
+            res = max(res, dfs(i,set()))
         return res
                 
