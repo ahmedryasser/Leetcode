@@ -15,4 +15,28 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+## String
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
