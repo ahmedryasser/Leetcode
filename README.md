@@ -42,11 +42,13 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/ahmedryasser/Leetcode/tree/master/0207-course-schedule) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/ahmedryasser/Leetcode/tree/master/0207-course-schedule) |
 ## Graph
 |  |
@@ -59,9 +61,11 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 <!---LeetCode Topics End-->
