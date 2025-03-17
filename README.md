@@ -51,6 +51,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0207-course-schedule](https://github.com/ahmedryasser/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -77,6 +78,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -87,6 +89,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search
@@ -106,4 +109,8 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
