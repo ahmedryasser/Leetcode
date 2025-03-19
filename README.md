@@ -33,6 +33,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ahmedryasser/Leetcode/tree/master/0274-h-index) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 ## Heap (Priority Queue)
@@ -105,6 +106,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ahmedryasser/Leetcode/tree/master/0274-h-index) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -115,4 +117,8 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ahmedryasser/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
