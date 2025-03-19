@@ -21,11 +21,13 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -44,6 +46,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,11 +106,13 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Array
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ahmedryasser/Leetcode/tree/master/0274-h-index) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
