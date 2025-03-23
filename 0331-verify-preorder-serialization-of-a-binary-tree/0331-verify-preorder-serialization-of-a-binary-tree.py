@@ -1,7 +1,8 @@
 class Solution:
     def isValidSerialization(self, preorder: str) -> bool:
         slots = 1
-        for node in preorder.split(','):
+        letters = preorder.split(',')
+        for node in letters:
             slots-=1
             if slots<0:
                 return False
