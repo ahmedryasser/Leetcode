@@ -22,6 +22,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -64,6 +65,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -74,11 +76,13 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ahmedryasser/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Topological Sort
 |  |
 | ------- |
@@ -99,6 +103,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ahmedryasser/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,6 +136,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -149,6 +155,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Simulation
 |  |
 | ------- |
