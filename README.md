@@ -132,12 +132,14 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ahmedryasser/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Array
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ahmedryasser/Leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/ahmedryasser/Leetcode/tree/master/0136-single-number) |
 | [0274-h-index](https://github.com/ahmedryasser/Leetcode/tree/master/0274-h-index) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
