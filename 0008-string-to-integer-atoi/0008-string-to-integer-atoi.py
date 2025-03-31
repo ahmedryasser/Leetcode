@@ -13,7 +13,6 @@ class Solution:
             result += '+'
             lis.pop(0)
         for l in lis:
-            
             if l.isdigit() == True:
                 if l != "0":isDigit = True
                 result+= l
