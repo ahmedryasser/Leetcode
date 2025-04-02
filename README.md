@@ -9,6 +9,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0070-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ahmedryasser/Leetcode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/ahmedryasser/Leetcode/tree/master/2383-add-two-integers) |
+| [2812-find-the-maximum-achievable-number](https://github.com/ahmedryasser/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
