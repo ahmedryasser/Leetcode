@@ -11,13 +11,11 @@ class Solution:
         while i < len(intervals) and intervals[i][1] < newInterval[0]:
             result.append(intervals[i])
             i += 1
-
         # Merge all overlapping intervals to one considering newInterval
         while i < len(intervals) and intervals[i][0] <= newInterval[1]:
             newInterval = [min(newInterval[0], intervals[i][0]), max(newInterval[1], intervals[i][1])]
             i += 1
         result.append(newInterval) # Add the merged interval
-
         # Add all the rest
         while i < len(intervals):
             result.append(intervals[i])
