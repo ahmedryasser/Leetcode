@@ -24,7 +24,6 @@ class Solution:
                 else:
                     temp = curr.next
                 if prev: curr = prev.next
-                
             else:
                 return head
         return head
