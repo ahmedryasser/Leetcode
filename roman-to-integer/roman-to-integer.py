@@ -7,4 +7,5 @@ class Solution:
         s= s.replace("CD","CCCC").replace("CM", "DCCCC")
         for char in s:
             total += roman[char]
+            
         return total
