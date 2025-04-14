@@ -25,6 +25,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedryasser/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -38,6 +39,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedryasser/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0412-fizz-buzz](https://github.com/ahmedryasser/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -229,4 +231,5 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedryasser/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
