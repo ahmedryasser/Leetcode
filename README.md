@@ -51,6 +51,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/ahmedryasser/Leetcode/tree/master/1127-last-stone-weight) |
 ## Counting
 |  |
@@ -105,6 +106,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -122,6 +124,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -157,6 +160,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 ## Counting Sort
 |  |
@@ -183,4 +187,12 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
