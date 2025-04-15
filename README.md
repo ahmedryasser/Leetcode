@@ -65,6 +65,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1127-last-stone-weight](https://github.com/ahmedryasser/Leetcode/tree/master/1127-last-stone-weight) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ahmedryasser/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -227,9 +229,19 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/ahmedryasser/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedryasser/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
