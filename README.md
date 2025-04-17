@@ -56,6 +56,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ahmedryasser/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ahmedryasser/Leetcode/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/ahmedryasser/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
@@ -172,6 +173,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ahmedryasser/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ahmedryasser/Leetcode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/ahmedryasser/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ahmedryasser/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedryasser/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
