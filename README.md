@@ -86,6 +86,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
+| [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -100,6 +101,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Graph
@@ -108,6 +110,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0207-course-schedule](https://github.com/ahmedryasser/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Topological Sort
 |  |
@@ -195,6 +198,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Simulation
 |  |
