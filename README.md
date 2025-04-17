@@ -26,6 +26,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedryasser/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/ahmedryasser/Leetcode/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/ahmedryasser/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
@@ -213,6 +214,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/ahmedryasser/Leetcode/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ahmedryasser/Leetcode/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ahmedryasser/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
@@ -264,4 +267,8 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ahmedryasser/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ahmedryasser/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
