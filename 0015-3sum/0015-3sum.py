@@ -9,13 +9,13 @@ class Solution:
                 continue
             middle,right = left+1,length-1
             while middle<right:
-                current_sum = nums[left] + nums[middle] + nums[right]
-                if current_sum == 0:
+                
+                if nums[left] + nums[middle] + nums[right] == 0:
                     result.append([nums[left] , nums[middle] , nums[right]])
                     middle+=1
                     while middle<right and nums[middle] == nums[middle-1]:
                         middle +=1
-                elif current_sum > 0:
+                elif nums[left] + nums[middle] + nums[right] > 0:
                     right-=1
                 else:
                     middle+=1
