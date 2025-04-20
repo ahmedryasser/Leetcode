@@ -6,6 +6,5 @@ class Solution:
         s= s.replace("XL", "XXXX").replace("XC", "LXXXX")
         s= s.replace("CD","CCCC").replace("CM", "DCCCC")
         for char in s:
-            total += roman[char]
-            
+            total += roman[char]    
         return total
