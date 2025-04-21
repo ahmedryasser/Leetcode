@@ -5,25 +5,25 @@ class Solution:
         for preq in prerequisites:
             adj[preq[1]].append(preq[0])
 
-        def dfs(num, stack, visted):
+        def dfs(num, stack, visited):
             if stack[num]:
                 return True
-            if visted[num]:
+            if visited[num]:
                 return False
             stack[num] = True
             visited[num] = True
-            for i in adj[num]:
-                if dfs(i,stack,visited):
+
+            for nei in adj[num]:
+                if dfs(nei, stack, visited):
                     return True
+            
             stack[num] = False
             return False
-
         stack = [False]*numCourses
         visited = [False]*numCourses
-        for num in range(numCourses):
-            if dfs(num,stack,visited):
+        for course in range(numCourses):
+            if dfs(course, stack, visited):
                 return False
-        return True
-
         
         return True
+
