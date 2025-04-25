@@ -30,6 +30,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0146-lru-cache](https://github.com/ahmedryasser/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -45,6 +46,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0412-fizz-buzz](https://github.com/ahmedryasser/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -269,6 +271,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedryasser/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/ahmedryasser/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Queue
@@ -292,4 +295,5 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0015-3sum](https://github.com/ahmedryasser/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedryasser/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
