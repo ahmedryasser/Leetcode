@@ -172,6 +172,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ahmedryasser/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ahmedryasser/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -180,6 +181,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0015-3sum](https://github.com/ahmedryasser/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ahmedryasser/Leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/ahmedryasser/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ahmedryasser/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedryasser/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ahmedryasser/Leetcode/tree/master/0136-single-number) |
@@ -296,4 +298,8 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0015-3sum](https://github.com/ahmedryasser/Leetcode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedryasser/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ahmedryasser/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
