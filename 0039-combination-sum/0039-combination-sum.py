@@ -9,9 +9,10 @@ class Solution:
             elif i > len(candidates)-1 or total > target:
                 return
             
-            subtotal.append(candidates[i])
-            dfs(i, total+candidates[i])
-            subtotal.pop()
+            if total+candidates[i] <= target:
+                subtotal.append(candidates[i])
+                dfs(i, total+candidates[i])
+                subtotal.pop()
             dfs(i+1, total)
 
 
