@@ -28,6 +28,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedryasser/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ahmedryasser/Leetcode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/ahmedryasser/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/ahmedryasser/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/ahmedryasser/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -189,6 +190,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0078-subsets](https://github.com/ahmedryasser/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/ahmedryasser/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedryasser/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ahmedryasser/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ahmedryasser/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedryasser/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ahmedryasser/Leetcode/tree/master/0200-number-of-islands) |
@@ -225,6 +227,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ahmedryasser/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ahmedryasser/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
