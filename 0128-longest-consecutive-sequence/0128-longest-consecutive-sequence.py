@@ -6,9 +6,9 @@ class Solution:
             if num-1 not in num_set:
                 current = num
                 streak = 1
-                new = num+1
-                while new in num_set:
-                    new+=1
+                
+                while current+1 in num_set:
+                    current+=1
                     streak+=1
 
                 longest = max(streak,longest)
