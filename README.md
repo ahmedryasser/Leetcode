@@ -196,6 +196,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0200-number-of-islands](https://github.com/ahmedryasser/Leetcode/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/ahmedryasser/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/ahmedryasser/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/ahmedryasser/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ahmedryasser/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -249,6 +250,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0739-daily-temperatures](https://github.com/ahmedryasser/Leetcode/tree/master/0739-daily-temperatures) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
@@ -314,4 +316,8 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0040-combination-sum-ii](https://github.com/ahmedryasser/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ahmedryasser/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ahmedryasser/Leetcode/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ahmedryasser/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
