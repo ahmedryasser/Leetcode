@@ -7,6 +7,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahmedryasser/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/ahmedryasser/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ahmedryasser/Leetcode/tree/master/0412-fizz-buzz) |
 | [2383-add-two-integers](https://github.com/ahmedryasser/Leetcode/tree/master/2383-add-two-integers) |
