@@ -16,6 +16,5 @@ class Solution:
             level(node.right,lvl+1)
         
         level(root,0)
-        result = [0]*len(traversal)
         return [traversal[i] for i in range(len(traversal.values()))]
 
