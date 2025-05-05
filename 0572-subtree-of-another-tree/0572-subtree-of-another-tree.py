@@ -20,9 +20,9 @@ class Solution:
                 return False
             left = node.left
             right = node.right
-            if isEqual(left , subRoot):
+            if left and left.val == subRoot.val and isEqual(left , subRoot):
                 return True
-            elif isEqual(right , subRoot):
+            elif right and right.val == subRoot.val and isEqual(right , subRoot):
                 return True
             else:
                 return dfs(left) or dfs(right)
