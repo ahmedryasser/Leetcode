@@ -114,6 +114,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/ahmedryasser/Leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/ahmedryasser/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -142,6 +143,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/ahmedryasser/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -161,6 +163,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/ahmedryasser/Leetcode/tree/master/0199-binary-tree-right-side-view) |
