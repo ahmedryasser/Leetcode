@@ -72,6 +72,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0883-car-fleet](https://github.com/ahmedryasser/Leetcode/tree/master/0883-car-fleet) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
