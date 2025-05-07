@@ -96,6 +96,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0100-same-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ahmedryasser/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ahmedryasser/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ahmedryasser/Leetcode/tree/master/0207-course-schedule) |
@@ -146,6 +147,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0102-binary-tree-level-order-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ahmedryasser/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -166,6 +168,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0102-binary-tree-level-order-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ahmedryasser/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -265,6 +268,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ahmedryasser/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ahmedryasser/Leetcode/tree/master/0883-car-fleet) |
