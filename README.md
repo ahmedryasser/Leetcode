@@ -124,6 +124,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0200-number-of-islands](https://github.com/ahmedryasser/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ahmedryasser/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0286-walls-and-gates](https://github.com/ahmedryasser/Leetcode/tree/master/0286-walls-and-gates) |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
@@ -218,6 +219,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedryasser/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ahmedryasser/Leetcode/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/ahmedryasser/Leetcode/tree/master/0274-h-index) |
+| [0286-walls-and-gates](https://github.com/ahmedryasser/Leetcode/tree/master/0286-walls-and-gates) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/ahmedryasser/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -238,6 +240,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0036-valid-sudoku](https://github.com/ahmedryasser/Leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/ahmedryasser/Leetcode/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/ahmedryasser/Leetcode/tree/master/0286-walls-and-gates) |
 | [1036-rotting-oranges](https://github.com/ahmedryasser/Leetcode/tree/master/1036-rotting-oranges) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search Tree
