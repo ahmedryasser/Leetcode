@@ -13,6 +13,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [2383-add-two-integers](https://github.com/ahmedryasser/Leetcode/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ahmedryasser/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3458-maximum-number-of-upgradable-servers](https://github.com/ahmedryasser/Leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ahmedryasser/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
@@ -208,6 +209,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ahmedryasser/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/ahmedryasser/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [3458-maximum-number-of-upgradable-servers](https://github.com/ahmedryasser/Leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ahmedryasser/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3458-maximum-number-of-upgradable-servers](https://github.com/ahmedryasser/Leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ahmedryasser/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Matrix
