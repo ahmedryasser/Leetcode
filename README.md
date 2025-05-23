@@ -42,6 +42,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+| [1123-single-row-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/1123-single-row-keyboard) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -62,6 +63,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+| [1123-single-row-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/1123-single-row-keyboard) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
