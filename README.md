@@ -19,6 +19,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahmedryasser/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ahmedryasser/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ahmedryasser/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedryasser/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -240,6 +241,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0036-valid-sudoku](https://github.com/ahmedryasser/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ahmedryasser/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ahmedryasser/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ahmedryasser/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ahmedryasser/Leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/ahmedryasser/Leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ahmedryasser/Leetcode/tree/master/0078-subsets) |
@@ -322,6 +324,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ahmedryasser/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ahmedryasser/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -385,6 +388,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ahmedryasser/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/ahmedryasser/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ahmedryasser/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ahmedryasser/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/ahmedryasser/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
@@ -400,6 +404,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ahmedryasser/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ahmedryasser/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/ahmedryasser/Leetcode/tree/master/0883-car-fleet) |
 ## Recursion
