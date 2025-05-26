@@ -159,6 +159,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
+| [1916-find-center-of-star-graph](https://github.com/ahmedryasser/Leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Topological Sort
 |  |
