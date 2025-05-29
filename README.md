@@ -35,6 +35,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedryasser/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ahmedryasser/Leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/ahmedryasser/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/ahmedryasser/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ahmedryasser/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -246,6 +247,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0042-trapping-rain-water](https://github.com/ahmedryasser/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ahmedryasser/Leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/ahmedryasser/Leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/ahmedryasser/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ahmedryasser/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ahmedryasser/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ahmedryasser/Leetcode/tree/master/0118-pascals-triangle) |
@@ -283,6 +285,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ahmedryasser/Leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/ahmedryasser/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/ahmedryasser/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ahmedryasser/Leetcode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/ahmedryasser/Leetcode/tree/master/0286-walls-and-gates) |
