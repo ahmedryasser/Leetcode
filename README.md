@@ -133,6 +133,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1036-rotting-oranges](https://github.com/ahmedryasser/Leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ahmedryasser/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,6 +225,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ahmedryasser/Leetcode/tree/master/2384-root-equals-sum-of-children) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
