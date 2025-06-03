@@ -128,6 +128,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0257-binary-tree-paths](https://github.com/ahmedryasser/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ahmedryasser/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0339-nested-list-weight-sum](https://github.com/ahmedryasser/Leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ahmedryasser/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -154,6 +155,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0261-graph-valid-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/ahmedryasser/Leetcode/tree/master/0286-walls-and-gates) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ahmedryasser/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0339-nested-list-weight-sum](https://github.com/ahmedryasser/Leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ahmedryasser/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
