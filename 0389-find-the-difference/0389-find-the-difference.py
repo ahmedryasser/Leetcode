@@ -6,6 +6,4 @@ class Solution:
         for item, count in counterT.items():
             if item not in counterS or (item in counterS and count != counterS[item]):
                 return item
-        for item, count in counterS.items():
-            if item not in counterT or (item in counterT and count != counterT[item]):
-                return item
+        
