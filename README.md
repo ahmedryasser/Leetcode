@@ -95,6 +95,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedryasser/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -243,6 +244,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ahmedryasser/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/ahmedryasser/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/ahmedryasser/Leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 ## Bit Manipulation
 |  |
@@ -292,6 +294,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ahmedryasser/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/ahmedryasser/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ahmedryasser/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -419,6 +422,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0287-find-the-duplicate-number](https://github.com/ahmedryasser/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/0647-palindromic-substrings) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
 | ------- |
