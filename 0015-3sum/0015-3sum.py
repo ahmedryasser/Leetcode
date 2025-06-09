@@ -19,6 +19,5 @@ class Solution:
                     right-=1
                 else:
                     middle+=1
-            
   
         return result
