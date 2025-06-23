@@ -50,6 +50,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedryasser/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ahmedryasser/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ahmedryasser/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/ahmedryasser/Leetcode/tree/master/2226-rings-and-rods) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ahmedryasser/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -76,6 +77,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1123-single-row-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/1123-single-row-keyboard) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/ahmedryasser/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ahmedryasser/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2226-rings-and-rods](https://github.com/ahmedryasser/Leetcode/tree/master/2226-rings-and-rods) |
