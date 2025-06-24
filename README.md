@@ -82,6 +82,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2226-rings-and-rods](https://github.com/ahmedryasser/Leetcode/tree/master/2226-rings-and-rods) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2886-faulty-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3194-find-words-containing-character](https://github.com/ahmedryasser/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3811-reverse-degree-of-a-string](https://github.com/ahmedryasser/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Greedy
@@ -364,6 +365,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0412-fizz-buzz](https://github.com/ahmedryasser/Leetcode/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2886-faulty-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/2886-faulty-keyboard) |
 | [3811-reverse-degree-of-a-string](https://github.com/ahmedryasser/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
