@@ -45,6 +45,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+| [1023-time-based-key-value-store](https://github.com/ahmedryasser/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1123-single-row-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/1123-single-row-keyboard) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedryasser/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -76,6 +77,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0647-palindromic-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+| [1023-time-based-key-value-store](https://github.com/ahmedryasser/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1123-single-row-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/1123-single-row-keyboard) |
 | [1205-defanging-an-ip-address](https://github.com/ahmedryasser/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -263,6 +265,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0287-find-the-duplicate-number](https://github.com/ahmedryasser/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/ahmedryasser/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ahmedryasser/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/ahmedryasser/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/ahmedryasser/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/ahmedryasser/Leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
@@ -398,6 +401,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0146-lru-cache](https://github.com/ahmedryasser/Leetcode/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/ahmedryasser/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ahmedryasser/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ahmedryasser/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
