@@ -77,6 +77,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/ahmedryasser/Leetcode/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/ahmedryasser/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1123-single-row-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/1123-single-row-keyboard) |
