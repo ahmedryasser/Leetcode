@@ -45,6 +45,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0389-find-the-difference](https://github.com/ahmedryasser/Leetcode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/ahmedryasser/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ahmedryasser/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/ahmedryasser/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/ahmedryasser/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1123-single-row-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/1123-single-row-keyboard) |
@@ -97,6 +98,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/ahmedryasser/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0274-h-index](https://github.com/ahmedryasser/Leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/ahmedryasser/Leetcode/tree/master/0389-find-the-difference) |
+| [0621-task-scheduler](https://github.com/ahmedryasser/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/ahmedryasser/Leetcode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -122,6 +125,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ahmedryasser/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -133,6 +137,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ahmedryasser/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -313,6 +318,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0286-walls-and-gates](https://github.com/ahmedryasser/Leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/ahmedryasser/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ahmedryasser/Leetcode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/ahmedryasser/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ahmedryasser/Leetcode/tree/master/0792-binary-search) |
