@@ -22,6 +22,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0005-longest-palindromic-substring](https://github.com/ahmedryasser/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ahmedryasser/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/ahmedryasser/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/ahmedryasser/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedryasser/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/ahmedryasser/Leetcode/tree/master/0213-house-robber-ii) |
@@ -69,6 +70,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedryasser/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ahmedryasser/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0091-decode-ways](https://github.com/ahmedryasser/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/ahmedryasser/Leetcode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/ahmedryasser/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
