@@ -90,6 +90,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahmedryasser/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ahmedryasser/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/ahmedryasser/Leetcode/tree/master/2226-rings-and-rods) |
 | [2727-number-of-senior-citizens](https://github.com/ahmedryasser/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -337,6 +338,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/ahmedryasser/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2727-number-of-senior-citizens](https://github.com/ahmedryasser/Leetcode/tree/master/2727-number-of-senior-citizens) |
