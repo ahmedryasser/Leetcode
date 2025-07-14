@@ -6,5 +6,6 @@ class Solution:
             if sortDict.get(sortedStr):
                 sortDict[sortedStr].append(string)
             else:
+                
                 sortDict[sortedStr] = [string]
         return sortDict.values()
