@@ -6,5 +6,6 @@ class Solution:
                 print(vals)
                 return [vals[target-num],n]
             vals[num] = n
+            
         return -1
             
