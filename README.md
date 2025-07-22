@@ -126,6 +126,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1970-sorting-the-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ahmedryasser/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
@@ -361,6 +362,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ahmedryasser/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3458-maximum-number-of-upgradable-servers](https://github.com/ahmedryasser/Leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ahmedryasser/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ahmedryasser/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedryasser/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -498,6 +500,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0647-palindromic-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ahmedryasser/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ahmedryasser/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Backtracking
 |  |
 | ------- |
