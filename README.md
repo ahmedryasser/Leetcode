@@ -342,6 +342,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1127-last-stone-weight](https://github.com/ahmedryasser/Leetcode/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedryasser/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/ahmedryasser/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ahmedryasser/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ahmedryasser/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ahmedryasser/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -409,6 +410,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0412-fizz-buzz](https://github.com/ahmedryasser/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1505-create-target-array-in-the-given-order](https://github.com/ahmedryasser/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/2886-faulty-keyboard) |
