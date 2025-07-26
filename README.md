@@ -52,6 +52,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1023-time-based-key-value-store](https://github.com/ahmedryasser/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1123-single-row-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/1123-single-row-keyboard) |
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedryasser/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ahmedryasser/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -180,6 +181,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -205,6 +207,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/ahmedryasser/Leetcode/tree/master/1036-rotting-oranges) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -247,6 +250,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ahmedryasser/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -274,6 +278,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ahmedryasser/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -440,6 +445,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0146-lru-cache](https://github.com/ahmedryasser/Leetcode/tree/master/0146-lru-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ahmedryasser/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/ahmedryasser/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ahmedryasser/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2413-smallest-number-in-infinite-set](https://github.com/ahmedryasser/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Data Stream
