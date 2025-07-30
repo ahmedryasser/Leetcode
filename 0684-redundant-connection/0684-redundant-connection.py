@@ -25,5 +25,5 @@ class Solution:
         
         for n1, n2 in edges:
             if not union(n1, n2):
-                print(par,rank)
+     
                 return [n1, n2]    
