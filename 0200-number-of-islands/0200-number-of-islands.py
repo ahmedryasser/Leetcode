@@ -10,11 +10,9 @@ class Solution:
                 node = stack.pop()
                 x,y = node
                 visited.add(node)
-                print(x,y)
                 for direction in directions:
                     new_x = x+direction[0]
                     new_y = y+direction[1]
-                    print("new",new_x,new_y)
                     if new_x>=0 and new_x<len(grid) and new_y>= 0 and new_y<len(grid[0]) and grid[new_x][new_y] == "1" and (new_x,new_y) not in visited:
                         stack.append((new_x,new_y))
                         visited.add((new_x,new_y))
@@ -26,5 +24,3 @@ class Solution:
                     number+=1
                     dfs((x,y))
         return number
-
-
