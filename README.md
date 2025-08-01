@@ -355,6 +355,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1256-rank-transform-of-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedryasser/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ahmedryasser/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1677-matrix-diagonal-sum](https://github.com/ahmedryasser/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/ahmedryasser/Leetcode/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ahmedryasser/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ahmedryasser/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -394,6 +395,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0417-pacific-atlantic-water-flow](https://github.com/ahmedryasser/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ahmedryasser/Leetcode/tree/master/0463-island-perimeter) |
 | [1036-rotting-oranges](https://github.com/ahmedryasser/Leetcode/tree/master/1036-rotting-oranges) |
+| [1677-matrix-diagonal-sum](https://github.com/ahmedryasser/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search Tree
 |  |
