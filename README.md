@@ -91,6 +91,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ahmedryasser/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/ahmedryasser/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1944-truncate-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahmedryasser/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -361,6 +362,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ahmedryasser/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/ahmedryasser/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1944-truncate-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ahmedryasser/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
