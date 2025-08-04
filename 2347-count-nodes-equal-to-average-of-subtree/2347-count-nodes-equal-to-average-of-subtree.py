@@ -10,13 +10,15 @@ class Solution:
 
         def dfs(node):
             if not node:
-                return []
-            left = dfs(node.left) 
-            right = dfs(node.right) 
+                return ([],0,0)
+            left,totl,numl = dfs(node.left) 
+            right,totr,numr = dfs(node.right) 
             result = left+right + [node.val]
-            if sum(result)//len(result) == node.val:
-                res[0] +=1
-            return result
+            tot = totl+totr+node.val
+            num = numl+numr+1
+            if tot//num == node.val:
+                res[0] += 1
+            return (result,tot,num)
         dfs(root)
         return res[0]
             
