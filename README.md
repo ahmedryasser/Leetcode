@@ -180,6 +180,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0572-subtree-of-another-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/ahmedryasser/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/ahmedryasser/Leetcode/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
@@ -211,6 +212,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ahmedryasser/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/ahmedryasser/Leetcode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/ahmedryasser/Leetcode/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -350,6 +352,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0739-daily-temperatures](https://github.com/ahmedryasser/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ahmedryasser/Leetcode/tree/master/0792-binary-search) |
+| [0854-making-a-large-island](https://github.com/ahmedryasser/Leetcode/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/ahmedryasser/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/ahmedryasser/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -399,6 +402,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0286-walls-and-gates](https://github.com/ahmedryasser/Leetcode/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ahmedryasser/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ahmedryasser/Leetcode/tree/master/0463-island-perimeter) |
+| [0854-making-a-large-island](https://github.com/ahmedryasser/Leetcode/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ahmedryasser/Leetcode/tree/master/1036-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/ahmedryasser/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -426,6 +430,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0547-number-of-provinces](https://github.com/ahmedryasser/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ahmedryasser/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/ahmedryasser/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/ahmedryasser/Leetcode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 ## Simulation
