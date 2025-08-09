@@ -9,6 +9,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0002-add-two-numbers](https://github.com/ahmedryasser/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ahmedryasser/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/ahmedryasser/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/ahmedryasser/Leetcode/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2383-add-two-integers](https://github.com/ahmedryasser/Leetcode/tree/master/2383-add-two-integers) |
@@ -320,6 +321,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0078-subsets](https://github.com/ahmedryasser/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ahmedryasser/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ahmedryasser/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/ahmedryasser/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/ahmedryasser/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/ahmedryasser/Leetcode/tree/master/0389-find-the-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -561,6 +563,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ahmedryasser/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/ahmedryasser/Leetcode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
