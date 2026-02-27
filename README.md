@@ -192,6 +192,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0922-possible-bipartition](https://github.com/ahmedryasser/Leetcode/tree/master/0922-possible-bipartition) |
 | [0933-increasing-order-search-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ahmedryasser/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ahmedryasser/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -269,6 +270,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ahmedryasser/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -299,6 +301,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0904-leaf-similar-trees](https://github.com/ahmedryasser/Leetcode/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/ahmedryasser/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedryasser/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ahmedryasser/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/ahmedryasser/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ahmedryasser/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
