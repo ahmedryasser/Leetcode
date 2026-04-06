@@ -19,4 +19,4 @@ class Solution:
         while final and final[trailing] == ' ':
             trailing -=1
         
-        return "".join(final)[:trailing+1]
+        return "".join(final).rstrip()
