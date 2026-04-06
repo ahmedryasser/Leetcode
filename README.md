@@ -97,6 +97,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1944-truncate-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ahmedryasser/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ahmedryasser/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ahmedryasser/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/ahmedryasser/Leetcode/tree/master/2226-rings-and-rods) |
@@ -459,6 +460,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0412-fizz-buzz](https://github.com/ahmedryasser/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ahmedryasser/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/ahmedryasser/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/2886-faulty-keyboard) |
