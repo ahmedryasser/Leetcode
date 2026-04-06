@@ -1,21 +1,22 @@
 class Solution:
     def decodeCiphertext(self, encodedText: str, rows: int) -> str:
-        text = list(encodedText)
-        string = []        
-        cols = len(text)//rows
-        for col in range(cols):
-            j=0
-            for row in range(rows):
-                index= cols*row +j+col
-                if index<len(text):
-                    j+=1
-                    string.append(text[index])
-        for i in range(len(string)-1, -1, -1):
-            if string[i] != " ":
-                return "".join(string)
-            else:
-                string.pop(i)
-        return ""
+        cols = len(encodedText)//rows
+        arr = list(encodedText)
+        x = 0
+        y = 0
+        stage = 0
+        final = []
+        while stage < cols:
+            i = int(y*cols) + x
+            final.append(arr[i])
+            y+=1
+            x+=1
+            if x>=cols or y>=rows:
+                stage+=1
+                x = stage
+                y=0
+        trailing = len(final)-1
+        while final and final[trailing] == ' ':
+            trailing -=1
         
-                
-            
+        return "".join(final)[:trailing+1]
