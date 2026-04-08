@@ -407,6 +407,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ahmedryasser/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ahmedryasser/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedryasser/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ahmedryasser/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3787-maximum-students-on-a-single-bench](https://github.com/ahmedryasser/Leetcode/tree/master/3787-maximum-students-on-a-single-bench) |
 ## Matrix
@@ -464,6 +465,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/2886-faulty-keyboard) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ahmedryasser/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/ahmedryasser/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Linked List
 |  |
@@ -502,6 +504,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0215-kth-largest-element-in-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedryasser/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ahmedryasser/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bucket Sort
 |  |
 | ------- |
