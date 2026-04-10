@@ -593,4 +593,8 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ahmedryasser/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/ahmedryasser/Leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
