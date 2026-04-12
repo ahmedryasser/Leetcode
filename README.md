@@ -31,6 +31,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0213-house-robber-ii](https://github.com/ahmedryasser/Leetcode/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ahmedryasser/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Memoization
 |  |
 | ------- |
@@ -91,6 +92,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1023-time-based-key-value-store](https://github.com/ahmedryasser/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1123-single-row-keyboard](https://github.com/ahmedryasser/Leetcode/tree/master/1123-single-row-keyboard) |
 | [1205-defanging-an-ip-address](https://github.com/ahmedryasser/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ahmedryasser/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ahmedryasser/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/ahmedryasser/Leetcode/tree/master/1797-goal-parser-interpretation) |
