@@ -388,6 +388,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ahmedryasser/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ahmedryasser/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/ahmedryasser/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ahmedryasser/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1944-truncate-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1944-truncate-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
