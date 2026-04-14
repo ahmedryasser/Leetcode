@@ -32,6 +32,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0647-palindromic-substrings](https://github.com/ahmedryasser/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/ahmedryasser/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/ahmedryasser/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2463-minimum-total-distance-traveled](https://github.com/ahmedryasser/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 ## Memoization
 |  |
 | ------- |
@@ -136,6 +137,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ahmedryasser/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2463-minimum-total-distance-traveled](https://github.com/ahmedryasser/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ahmedryasser/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
@@ -395,6 +397,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ahmedryasser/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ahmedryasser/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/ahmedryasser/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2463-minimum-total-distance-traveled](https://github.com/ahmedryasser/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2714-left-and-right-sum-differences](https://github.com/ahmedryasser/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/ahmedryasser/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
