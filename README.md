@@ -19,6 +19,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [3458-maximum-number-of-upgradable-servers](https://github.com/ahmedryasser/Leetcode/tree/master/3458-maximum-number-of-upgradable-servers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ahmedryasser/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedryasser/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ahmedryasser/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ahmedryasser/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ahmedryasser/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ahmedryasser/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3787-maximum-students-on-a-single-bench](https://github.com/ahmedryasser/Leetcode/tree/master/3787-maximum-students-on-a-single-bench) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ahmedryasser/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -414,6 +416,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ahmedryasser/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/ahmedryasser/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ahmedryasser/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ahmedryasser/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3778-transform-array-by-parity](https://github.com/ahmedryasser/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3787-maximum-students-on-a-single-bench](https://github.com/ahmedryasser/Leetcode/tree/master/3787-maximum-students-on-a-single-bench) |
 ## Matrix
