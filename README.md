@@ -120,6 +120,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | ------- |
 | [0621-task-scheduler](https://github.com/ahmedryasser/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/ahmedryasser/Leetcode/tree/master/0778-reorganize-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedryasser/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
 | ------- |
@@ -394,6 +395,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1848-sum-of-unique-elements](https://github.com/ahmedryasser/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ahmedryasser/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1944-truncate-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1944-truncate-sentence) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedryasser/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ahmedryasser/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
