@@ -13,6 +13,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [0412-fizz-buzz](https://github.com/ahmedryasser/Leetcode/tree/master/0412-fizz-buzz) |
 | [0900-reordered-power-of-2](https://github.com/ahmedryasser/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/ahmedryasser/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedryasser/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/ahmedryasser/Leetcode/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ahmedryasser/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -139,6 +140,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedryasser/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/ahmedryasser/Leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1970-sorting-the-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedryasser/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/ahmedryasser/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -395,6 +397,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1848-sum-of-unique-elements](https://github.com/ahmedryasser/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ahmedryasser/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1944-truncate-sentence](https://github.com/ahmedryasser/Leetcode/tree/master/1944-truncate-sentence) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedryasser/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ahmedryasser/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ahmedryasser/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ahmedryasser/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -436,6 +439,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [1036-rotting-oranges](https://github.com/ahmedryasser/Leetcode/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/ahmedryasser/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1677-matrix-diagonal-sum](https://github.com/ahmedryasser/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedryasser/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/ahmedryasser/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search Tree
 |  |
