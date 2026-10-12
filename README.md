@@ -411,6 +411,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 | [2463-minimum-total-distance-traveled](https://github.com/ahmedryasser/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2714-left-and-right-sum-differences](https://github.com/ahmedryasser/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/ahmedryasser/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ahmedryasser/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2868-continuous-subarrays](https://github.com/ahmedryasser/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ahmedryasser/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ahmedryasser/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -613,6 +614,7 @@ Collection of my soloutions to some LeetCode questions to ace the coding intervi
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ahmedryasser/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ahmedryasser/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Database
 |  |
 | ------- |
